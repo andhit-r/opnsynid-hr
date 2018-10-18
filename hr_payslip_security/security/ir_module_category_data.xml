@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<openerp>
+	<data noupdate="1">
+
+		<record id="module_payslip" model="ir.module.category">
+		    <field name="name">Payslip</field>
+		</record>
+
+	</data>
+</openerp>
